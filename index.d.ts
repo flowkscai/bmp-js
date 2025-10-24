@@ -1,4 +1,4 @@
-declare module "@vingle/bmp-js" {
+declare module "@flowkscai/bmp-js" {
   export interface Bitmap {
     pos: number;
     buffer: Buffer;
